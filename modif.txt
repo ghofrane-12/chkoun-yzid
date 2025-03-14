@@ -1,6 +1,0 @@
-cd C:/Users/MSI/OneDrive/Bureau/chkoun-yzid/spec
-git add Rapport.docx
-git add .
-git commit -m "modification du fichier"
-git push origin remotes/origin/main (https://github.com/ghofrane-12/chkoun-yzid.git)
-git push origin main
